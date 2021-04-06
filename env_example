@@ -1,0 +1,4 @@
+DB=drupal9
+DBH=db
+DBU=admin
+DBP=thisisapassword
