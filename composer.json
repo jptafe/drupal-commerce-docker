@@ -17,6 +17,11 @@
     "require": {
         "composer/installers": "^1.9",
         "drupal/commerce": "^2.24",
+        "drupal/commerce_invoice": "^2.0@beta",
+        "drupal/commerce_paypal": "^1.0@RC",
+        "drupal/commerce_recurring": "^1.0@beta",
+        "drupal/commerce_shipping": "^2.0",
+        "drupal/commerce_wishlist": "^3.0@beta",
         "drupal/core-composer-scaffold": "^9.1",
         "drupal/core-project-message": "^9.1",
         "drupal/core-recommended": "^9.1",
